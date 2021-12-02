@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "670086814239",
+    "firebase_url": "https://smca-monitoramento-default-rtdb.firebaseio.com",
+    "project_id": "smca-monitoramento",
+    "storage_bucket": "smca-monitoramento.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670086814239:android:c961d7642bdbc46a4e132a",
+        "android_client_info": {
+          "package_name": "com.example.smca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670086814239-ri5jf09fpe5v1sg7fntnqsnhsqrk6k2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smca",
+            "certificate_hash": "496bf5bd182b4524384c47dd146b3a6b62d1c0da"
+          }
+        },
+        {
+          "client_id": "670086814239-h7gru4nq5jo75bjf91els20g3711oc34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXgw-MWuP8nt8Y1KU_37yCGt-9BriUMYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670086814239-h7gru4nq5jo75bjf91els20g3711oc34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
